@@ -1,0 +1,11 @@
+{
+  "name": "sitemap-normalizer",
+  "version": "1.0.0",
+  "description": "Normalizes a flat sitemap.xml file into a hiearchical JSON structure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Troy Forster",
+  "license": "ISC"
+}
